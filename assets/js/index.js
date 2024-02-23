@@ -19,7 +19,7 @@ const client = new tmi.Client({
     reconnect: true,
     debug: true
   },
-  channels: ["uxanarangel"]
+  channels: ["unfrontmas"]
 });
 
 client.connect();
